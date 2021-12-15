@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kishan
-- 👀 I’m interested in : A lot of things
-- 🌱 I’m currently learning : How to code, obviously
-- 💞️ I’m looking to collaborate on : Something
-- 📫 How to reach me : Via Microsoft Tech Support
+- 👀 I’m interested in : Network engineering, Programming, Cyber Security and Automation.
+- 🌱 I’m currently learning : Mobile edge computing and crowdsensing technology
+- 💞️ I’m looking to collaborate on : Architect automated systems with K8s on cloud
+- 📫 How to reach me : Do you have telepathic skills? I hope not. Just shoot me an email.
