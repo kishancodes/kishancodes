@@ -2,4 +2,4 @@
 - 👀 I’m interested in : A lot of things
 - 🌱 I’m currently learning : How to code, obviously
 - 💞️ I’m looking to collaborate on : Something, Someday
-- 📫 How to reach me : Ew, a stalker?
+- 📫 How to reach me : Via Microsoft Tech Support
