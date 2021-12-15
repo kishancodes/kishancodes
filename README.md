@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kishan
 - 👀 I’m interested in : A lot of things
 - 🌱 I’m currently learning : How to code, obviously
-- 💞️ I’m looking to collaborate on : Something, Someday
+- 💞️ I’m looking to collaborate on : Something
 - 📫 How to reach me : Via Microsoft Tech Support
