@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kishan
 - 👀 I’m interested in : Network engineering, Software Programming, Cybersecurity and Automation.
-- 🌱 I’m currently learning : Mobile edge computing and crowdsensing technology
+- 🌱 I’m currently learning : Scientific Computing and Data Science
 - 💞️ I’m looking to collaborate on : To architect automated systems with K8s on cloud
 - 📫 How to reach me : Do you have telepathic skills? I hope not. Just shoot me an email.
